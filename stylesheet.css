@@ -1,0 +1,129 @@
+
+            h1 {
+                font-family:'Poiret One', cursive;
+                font-size: 85px;
+                color: #5BC0EB;
+                text-align: center;
+            } 
+            
+            p {
+                font-family:'Farsan', cursive;
+                font-size: 35px;
+                color: #A3BCF9;
+                text-align: center;
+                
+                float: middle;
+            }
+            
+            
+            a {
+                font-family:'Dosis', sans-serif;
+                font-size: 30px;
+                color: #A3BCF9;
+                align-content: center;
+            }
+            
+            img {
+                
+                height: 380px;
+                width: 350px;
+                
+                align-content: center;
+            }
+            
+            rightSide {
+                border: 5px dashed #3C1742;
+                width: 49%
+                height: 500px;
+                background-color: #8D818C;
+                
+                float: none;
+            }
+            
+            leftSide {
+                border: 5px dashed #0F1A20;
+                width: 44%;
+                height: 400px;
+                background-color: #A5A299;
+                
+                float: none;
+                
+            }
+            
+            #quote {
+                font-family:'Farsan', cursive;
+                font-size: 30px;
+                color: #1D2D44;
+            }
+            
+            
+            
+            body {
+                background:url("background5.jpg");
+                background-color: #9BC1BC;
+                background-attachment: fixed;
+            }
+            
+            
+            li a {
+                color: white;
+                text-decoration: none;
+                font-size: 30px;
+                font-family:'Farsan', cursive;
+                color: white;
+                background-color: #610345;
+                float: left;
+                padding: 20px 50px;
+            }
+            
+            .button:hover {
+                background-color: #7785AC;
+            }
+            
+            .button {
+                display: inline;
+                margin: 25px;
+                padding: 20px 50px;
+                background-color: #1F2041;
+                text-decoration: none;
+            }
+            
+            div {
+                align-content: center;
+            }
+            
+            .text {
+                background-color: #92B4A7;
+                width: 460px;
+                height: 370px;
+                border: 25px;
+                padding: 25px;
+                margin: 100px;
+                font-size: 25px;
+                font-family: 'Farsan', cursive;
+                color: #181D27;
+                
+                float: right;
+            }
+            
+            img {
+                margin: 90px;
+            }
+            
+            .image4 { 
+                height: 380px;
+                width: 390px;
+                
+                float: right;
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+            
